@@ -6,10 +6,7 @@ Ce projet utilise FastAPI pour créer une API de classification de sentiments ba
 ## Table des Matières
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Contribuer](#contribuer)
-4. [License](#license)
-5. [Auteurs](#auteurs)
-6. [Remerciements](#remerciements)
+
 
 ## Installation
 
