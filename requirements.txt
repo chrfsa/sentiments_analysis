@@ -1,0 +1,10 @@
+transformers
+'transformers[tf-cpu]'
+'transformers[torch]'
+tensorflow
+torch
+pandas
+numpy 
+fastapi
+uvicorn
+streamlit
