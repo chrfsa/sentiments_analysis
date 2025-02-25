@@ -5,8 +5,8 @@ Ce projet utilise FastAPI pour créer une API de classification de sentiments ba
 
 ## Table des Matières
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [interface](#interface)
+2. [interface](#interface)
+3. [Usage](#usage)
 
 
 ## Installation
@@ -47,7 +47,9 @@ Ce projet utilise FastAPI pour créer une API de classification de sentiments ba
     ```bash
     streamlit run app.py
     ```
+### Interface
 
+![interface](sa.png)
 ## Usage
 ### API
 L'API FastAPI expose un point de terminaison `/analyse` pour l'analyse des sentiments. Envoyez une requête POST avec un JSON contenant le texte à analyser :
@@ -56,6 +58,3 @@ L'API FastAPI expose un point de terminaison `/analyse` pour l'analyse des senti
     "prompts": "votre texte ici"
 }
 
-### Interface
-
-![interface](sa.png)
