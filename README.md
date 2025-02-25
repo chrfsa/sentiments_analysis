@@ -54,3 +54,8 @@ L'API FastAPI expose un point de terminaison `/analyse` pour l'analyse des senti
 {
     "prompts": "votre texte ici"
 }
+
+
+### Interface
+
+![interface](sa.png)
